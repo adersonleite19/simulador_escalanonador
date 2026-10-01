@@ -1,0 +1,11 @@
+RESULTADO DA SIMULAÇÃO - FCFS
+
+Processo P1
+Tempo de finalização: 5
+Tempo de retorno: 5
+Tempo de espera: 0
+
+Processo P2
+Tempo de finalização: 8
+Tempo de retorno: 7
+Tempo de espera: 2
